@@ -2,8 +2,9 @@ Package: com.iTrickz.SetGen
 Name: SetGen
 Version: 1.0
 Architecture: iphoneos-arm
-Description: set generator to nvram. To start type set in mobile terminal. For support follow me on twitter (@iTrickz)
-Maintainer: @iosusr <itrickz101@gmail.com>
-Author: @iTrickz <itrickz101@gmail.com>
+Description: set generator to nvram. To start type setup in mobile terminal. For support follow me on twitter (@iTrickzGG)
+Maintainer: @iTrickzGG <itrickz101@gmail.com>
+Author: @iTrickzGG <itrickz101@gmail.com>
 Section: Tweaks
+
 
