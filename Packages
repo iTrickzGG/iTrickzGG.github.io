@@ -3,12 +3,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Filename: ./debs/com.itrickz.setgen_1.0_iphoneos-arm.deb
-Size: 1280
-MD5sum: 591a1ee547785df73aff90de88c1a010
-SHA1: 5dfc7f3a1e41be817fb3eea5bbf6f6633e9d9caa
-SHA256: efed99b9ac2b47e1b35d96e49d932f500bc0c1639aa8e5b439e2235b8c6bdab0
+Size: 1318
+MD5sum: 3ee59cc389bc5a29cccf5aff9b2ccc5c
+SHA1: bb8a073f7f18ff9d4a9981d341f8bd0e60967f78
+SHA256: fbec56f3456e79a094932e16f383378ec7e58c95ffb5bffc0b7e730f6926047d
 Section: Tweaks
-Description: Sets a Generator to NVRAM for restore(future_restore) Support:(@iTrickzGG)
+Description: Sets a Generator to NVRAM..for restore
 Author: @iTrickzGG <itrickz101@gmail.com>
 Name: SetGen
+Usage: TYPE “SETUP” INTO MTERMINAL Support:(@iTrickzGG)
 

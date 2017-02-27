@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/Documents/iTrickzGG.githup.io
+echo “push repo updates”
+find . -name '*.DS_Store' -type f -delete
+./update.sh
