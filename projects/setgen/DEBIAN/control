@@ -2,8 +2,7 @@ Package: com.iTrickz.SetGen
 Name: SetGen
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Sets a Generator to NVRAM..for restore    
-USAGE: TYPE “SETUP” INTO MTERMINAL Support:(@iTrickzGG)
+Description: Sets a Generator to NVRAM..for restore..TYPE “setup” (TO USE) in MTERMINAL..
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Author: @iTrickzGG <itrickz101@gmail.com>
 Section: Tweaks
