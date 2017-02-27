@@ -2,5 +2,5 @@
 
 #  setup.sh
 #
-echo "generator need to run as root please enter your password"
+echo "SetGen needs to run as root, please enter your password"
 su root gen_mainscript

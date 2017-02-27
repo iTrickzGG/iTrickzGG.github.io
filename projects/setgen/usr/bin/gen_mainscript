@@ -18,14 +18,14 @@ echo "[*]Thanks for using this script!"
 sleep 2
 echo "[*]Follow @iTrickzGG on twitter"
 sleep 1
-echo "We are now done! - If you're ready to restore, continue with the script OR just exit now"
+echo "We are now done! - If you're ready to restore, continue with the script OR just type N"
 sleep 1
 read -r -p "ARE YOU READY TO RESTORE YOUR DEVICE NOW? [y/N] " response
 if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
 then
 nvram auto-boot=false
 echo "setting auto-boot false..."
-sleep 4
+sleep 3
 read -r -p "Reboot now into recovery mode? [y/N] " response
 if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
 then
