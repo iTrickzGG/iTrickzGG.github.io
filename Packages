@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Filename: ./debs/com.itrickz.setgen_1.0_iphoneos-arm.deb
 Size: 1304
-MD5sum: 14b5444a39d5ad9c2a37ad56cf3cdf86
-SHA1: 6031813ab2b6f01a753362fdc3418cdba986a3ca
-SHA256: 6d26b533f987e0d6a936db5c46b8be45b98b99dffdfd8242929cf23caddb88c2
+MD5sum: b2a9bd30feed510ceb17e66b34719b9b
+SHA1: a2a5a54e1a32e2ef160c493d4946f5259d3abcc5
+SHA256: 695f3a8ac4cf8ec4f55e79915d7dd968016d1ea9b8c47a2e631aed6bb920a5d7
 Section: Tweaks
 Description: set generator to nvram. To start type setup in mobile terminal. For support follow me on twitter (@iTrickzGG)
 Author: @iTrickzGG <itrickz101@gmail.com>
