@@ -1,0 +1,35 @@
+#!/bin/bash
+read -r -p "Do you want to set a generator into nvram? [y/N] " response
+if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
+then
+echo "[*]This is compatible with yalu102!"
+echo "[*]Enter Generator from shsh file here!"
+read Generator
+echo "This script will now write to nvram, click enter to continue"
+nvram com.apple.System.boot-nonce="$Generator"
+echo "[*]Press Return to Continue!"
+sleep 2
+nvram -p
+echo "[*]If you see your generator in the nvram settings, this worked!"
+sleep 3
+echo "[*]If not,re-load the script"
+sleep 2
+echo "[*]Thanks for using this script!"
+sleep 2
+echo "[*]Follow @iTrickzGG on twitter"
+sleep 1
+echo "We are now done! - If you're ready to restore, continue with the script OR just exit now"
+sleep 1
+read -r -p "ARE YOU READY TO RESTORE YOUR DEVICE NOW? [y/N] " response
+if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
+then
+nvram auto-boot=false
+echo "setting auto-boot false..."
+sleep 4
+read -r -p "Reboot now into recovery mode? [y/N] " response
+if [[ $response =~ ^([yY][eE][sS]|[y/Y])$ ]]
+then
+reboot
+fi
+fi
+fi

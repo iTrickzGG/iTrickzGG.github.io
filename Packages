@@ -1,0 +1,14 @@
+Package: com.iTrickz.SetGen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @iosusr <itrickz101@gmail.com>
+Filename: ./debs/com.itrickz.setgen_1.0_iphoneos-arm.deb
+Size: 1298
+MD5sum: c03d6c1ae38e2c9a51abd8f732f22244
+SHA1: c51278e9e7ff8a5ca59005182deae2c634b8aebf
+SHA256: f40eaa86926db68e06dd59b577187be5861bca2b756acb83c0b28ddaba2c0068
+Section: Tweaks
+Description: set generator to nvram. To start type set in mobile terminal. For support follow me on twitter (@iTrickz)
+Author: @iTrickz <itrickz101@gmail.com>
+Name: SetGen
+

@@ -1,0 +1,9 @@
+Origin: 2Klasic repo
+Label: 2Klasic repo
+Suite: beta
+Version: 1.0
+Codename: 2Klasic Repo
+Architectures: iphoneos-arm
+Components: main
+Description: 2Klasic repo
+
