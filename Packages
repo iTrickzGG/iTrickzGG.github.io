@@ -1,12 +1,12 @@
 Package: com.iTrickz.SetGen
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
-Filename: ./debs/com.itrickz.setgen_1.1_iphoneos-arm.deb
-Size: 1308
-MD5sum: 3f05c3351a124d270ea37acd2045fce3
-SHA1: 6a7fbfbc7906ec6cb682b869591bfe9df061d9fe
-SHA256: bb90460f223341c34c422ec795c512f7d04392bc67ecee2adae954f774aaffad
+Filename: ./debs/com.itrickz.setgen_1.0_iphoneos-arm.deb
+Size: 1306
+MD5sum: c7a58d5772fd7165e39b23ba24e4b9a9
+SHA1: 2ecc0b43bcac2289c4517acefa02d4fc013369a7
+SHA256: ff46867b0e1dd84714b53d6ab12e6fd63cd8b2ece3808b44c985abf979c49976
 Section: Tweaks
 Description: Sets a generator in NVRAM usage: type <setup>(without <>) in Mterminal - ONLY YALU102
 Author: @iTrickzGG <itrickz101@gmail.com>
