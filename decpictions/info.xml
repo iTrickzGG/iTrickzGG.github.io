@@ -1,0 +1,25 @@
+<package>
+	<id>com.itrickz.setgen</id>
+	<name>SetGen</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0.1</miniOS>
+      <maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>Cydia Installer</dependencies>
+	<descriptionlist>
+		<description>This adds icons to the Sections.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Release</change>
+		<change>Improved Shell Script</change>
+	</changelog>
+	<links></links>
+</package>
