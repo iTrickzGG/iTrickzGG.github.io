@@ -2,5 +2,6 @@
 
 #  mustard.sh
 #
-echo "SetGen needs to run as root, please enter your password"
+echo "Pkg brought to you by iTrickzz with support from 2Klasic"
+echo "iUtility4iOS needs to run as root, please enter your password"
 su root iUtility4iOS
