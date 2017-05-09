@@ -35,6 +35,10 @@ echo "[*] ***Reboot To Recovery Mode.."
 echo "Make Sure To Run As Root"
 echo "To Escape Recovery :
 -Use Tool Such As RecBoot/Redsn0w"
+echo " "
+echo "[*] Reinstall Cydia"
+echo "Rebooting Is Required After Running Script"
+echo "Use yalu102 To Install Cydia"
 elif [ "$a" = "0" ]
 then
 echo "Current NVRAM"
@@ -76,7 +80,6 @@ nvram com.apple.System.boot-nonce="$gen"
 echo "Setting Generator.."
 nvram -p
 echo "Make Sure Your Generator Is Written There"
-echo "@iTrickzGG"
 #
 elif [ "$a" = "4" ]
 then
@@ -98,6 +101,7 @@ reboot
 #
 elif [ "$a" = "5" ]
 then
+whoami
 cd /
 rm .installed_yaluX
 cd /var/mobile
