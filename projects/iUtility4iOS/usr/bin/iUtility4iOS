@@ -65,6 +65,7 @@ echo "Dumping ECID.."
 sleep 1
 echo "ECID = :###############"
 echo "ECID (Hex Form)"
+cd ~/System/Library/Caches
 openssl asn1parse -inform DER -in apticket.der | grep -A1 ECID | tail -n +1
 elif [ "$a" = "3" ]
 then
