@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Filename: ./debs/com.itrickz.setgen_1.1_iphoneos-arm.deb
 Size: 1298
-MD5sum: 6795321918acf1a8536c8fe6882ba572
-SHA1: 4de71aec802a77e1a9557763e1c4ec33e630b49f
-SHA256: 8e983647b4739b7db3c440c015cccd7a0da2bcb363acb1cbbf42a4630f84ccb0
+MD5sum: 9ff6aa17dd6692e521a88fd3fbca468f
+SHA1: eed9c09ad854f5b98022e6f89315e671338e7346
+SHA256: cc26d8a27f8141a9e9152f7ade92a5b27e9d770dd9c75768c9fdc65c55948750
 Section: Tweaks
 Description: Sets a generator in NVRAM usage: type <setup>(without <>) in Mterminal - ONLY YALU102
 Author: @iTrickzGG <itrickz101@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Filename: ./debs/com.itrickz.iutility4ios_1.2_iphoneos-arm.deb
 Size: 1962
-MD5sum: 36b53c3489a4a82439deba2d0d0bb06f
-SHA1: 1d339270dc7c39b184d97ab3d612c960ebe81d37
-SHA256: 22d67b7483ff37a1a3aafef9a4a59ce6de15e4c48e80544be99cf85782ae7b81
+MD5sum: d20b2f212844a52c3deec9186f8c486d
+SHA1: 9721494ff27a6cc84e0529bdddf55457c242ba9c
+SHA256: f6fe3044d728800af5f91fe75011b35e6d97fd84e830bb28bbba20efad536b29
 Section: Tweaks
 Description: iOS Utility Script to use this pkg open your favorite mobile terminal and type mustard
 Author: @iTrickzGG <itrickz101@gmail.com>
