@@ -1,4 +1,4 @@
 #!/bin/bash
-echo [*] Update Cydia Pkgs
+echo [*] Creating Cydia DEB Pkgs
 find . -name '*.DS_Store' -type f -delete
 ./update.sh

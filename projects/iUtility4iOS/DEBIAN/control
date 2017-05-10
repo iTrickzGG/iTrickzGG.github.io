@@ -1,10 +1,10 @@
 Package: com.iTrickz.iUtility4iOS
 Name: iUtility4iOS
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Description: iOS Utility Script to use this package open your favorite mobile terminal and type mustard
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Author: @iTrickzGG <itrickz101@gmail.com>
-Depends: openssl
+Depends: openssl, debianutils, coreutils
 Section: Tweaks
 
