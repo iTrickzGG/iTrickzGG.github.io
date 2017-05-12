@@ -9,7 +9,8 @@ echo "[1] iDeviceInfo"
 echo "[2] ECID_DUMP [64BIT]"
 echo "[3] Set Generator To NVRAM"
 echo "[4] ***Reboot To Recovery Mode, For Restore"
-echo "[5] ***Reinstall Cydia"
+echo "[5] ***Respring iDevice"
+echo "[6] ***Reinstall Cydia"
 echo "======================================================="
 read a
 if [ "$a" = "HELP" ]
@@ -100,7 +101,10 @@ echo "Good-Bye!"
 sleep 1
 reboot
 #
-elif [ "$a" = "5" ]
+elif [ "$a" = "5"]
+	then 
+	killall SpringBoard && uichache
+elif [ "$a" = "6" ]
 then
 whoami
 cd /
@@ -122,5 +126,6 @@ echo "Okay"
 echo "Have-Fun With Cydia!"
 echo "Make Sure To Reboot Afterwards"
 #
+fi
 fi
 fi
