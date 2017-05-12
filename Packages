@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: @iTrickzGG <itrickz101@gmail.com>
 Filename: ./debs/com.itrickz.setgen_1.1_iphoneos-arm.deb
 Size: 1286
-MD5sum: 1d01f3939538955cbdc6f7dc89336d72
-SHA1: 81055fa22fe0dc87eeb4e11d3d37e6dcdfa07f09
-SHA256: 3c8c4523b5ffa04770251aa5297ec433ec65921e7eb5698564c4281765319f93
+MD5sum: 44e16d722e24d2a2bf53bd79ab544a72
+SHA1: e1f430b91939b3ed1d1d7633d65dccd24b064ff7
+SHA256: fde3fb4368b910aea0ccbadb470afdbd304532e4a3b7514731fa90bf9833637f
 Section: Tweaks
 Description: Sets a generator in NVRAM usage: type <setup>(without <>) in Mterminal - ONLY YALU102
 Author: @iTrickzGG <itrickz101@gmail.com>

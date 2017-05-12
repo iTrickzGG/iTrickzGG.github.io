@@ -101,7 +101,7 @@ echo "Good-Bye!"
 sleep 1
 reboot
 #
-elif [ "$a" = "5"]
+elif [ "$a" = "5" ]
 	then 
 	killall SpringBoard && uichache
 elif [ "$a" = "6" ]
