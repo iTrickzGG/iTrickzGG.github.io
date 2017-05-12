@@ -1,4 +1,5 @@
 #!/bin/bash
+#17/05/11 iTrickzGG & 2Klasic
 echo "Utility Script For iOS"
 echo "Select An Option"
 echo "*** - Sign As Root Before Running Option"
@@ -61,7 +62,7 @@ printf "`echo Architecture =` `uname -p`\n"
 printf "`echo Kernel =` `uname -s`\n"
 uname -a
 elif [ "$a" = "2" ]
-then
+	then
 echo "Dumping ECID.."
 sleep 1
 echo "ECID = :###############"
@@ -69,7 +70,7 @@ echo "ECID (Hex Form)"
 cd /System/Library/Caches
 openssl asn1parse -inform DER -in apticket.der | grep -A1 ECID | tail -n +1
 elif [ "$a" = "3" ]
-then
+	then
 echo "Sets Generator To NVRAM"
 echo "Type Generator Here"
 read gen
@@ -84,7 +85,7 @@ nvram -p
 echo "Make Sure Your Generator Is Written There"
 #
 elif [ "$a" = "4" ]
-then
+	then
 whoami
 echo "Reboots To Recovery Mode"
 echo "WARNING:This Will Now Modify NVRAM"
@@ -105,7 +106,7 @@ elif [ "$a" = "5" ]
 	then 
 	killall SpringBoard && uichache
 elif [ "$a" = "6" ]
-then
+	then
 whoami
 cd /
 rm .installed_yaluX
