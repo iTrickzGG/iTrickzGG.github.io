@@ -10,7 +10,7 @@ echo "[1] iDeviceInfo"
 echo "[2] ECID_DUMP [64BIT]"
 echo "[3] Set Generator To NVRAM"
 echo "[4] ***Reboot To Recovery Mode, For Restore"
-echo "[5] ***Respring iDevice"
+echo "[5] Respring iDevice"
 echo "[6] ***Reinstall Cydia"
 echo "======================================================="
 read a
