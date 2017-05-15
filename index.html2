@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name = "viewport" content = "width = device-width">
+
+	<title>iTrickzGG's Public Cydia Repo</title>
+	<style>
+	body {
+		margin: 0%;
+		background: url() no-repeat center center fixed;
+		font-family: arial;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size:cover;
+  font-family: helvetica;
+        font-weight: 100;
+	}
+	.icon{
+		border-radius: 21%;
+		width: 100px;
+		height: 100px;
+		box-shadow: 0px 0px 10px 0px black;
+		opacity: 0.7;
+	}
+	h3{
+		font-family: arial;
+		color: white;
+	}
+	button{
+		background-color: black;
+		color: white;
+		border: 0px;
+		opacity: 0.8;
+		width: 200px;
+		border-radius: 5px;
+		height: 50px;
+		font-size: 80%;
+	}
+.box {
+	background-color: white;
+	  overflow: auto;
+        -webkit-overflow-scrolling: touch;
+	box-shadow: 0 0 4px gray;
+	position: fixed;
+	left: 5%;
+	right: 5%;
+	bottom: 2%;
+	top: 2%;
+	width: 90%;
+	opacity: 0.8;
+}
+.link{
+	background-color: black;
+		color: white;
+		border: 0px;
+		opacity: 0.8;
+		width: 50px;
+		border-radius: 5px;
+		height: 20px;
+		font-size: 80%;
+}
+	</style>
+
+</head>
+<body>
+<div class="box">
+<center><p style="font-size: 20px; color: gray; font-family: helvetica;">iTrickzGG's Public Cydia Repo<p></center>
+<center><a href="https://twitter.com/iTrickzGG"><button>Follow Me On Twitter</button></center><br>
