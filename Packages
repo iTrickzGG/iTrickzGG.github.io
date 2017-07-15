@@ -1,0 +1,43 @@
+Package: com.iApeiron.Savethemblobs
+Version: 1.0b1
+Architecture: iphoneos-arm
+Maintainer: 2Klasic <derobi@icloud.com>
+Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
+Size: 24625050
+MD5sum: e0baf154eea8127a049ee5efebe38fb2
+SHA1: 6f3c1c7968f3a21b4a2396fb8f38adbafd3de64c
+SHA256: fd9f76570697fecb349d38c0f1e320c1ad1c4e9ddbc2c32146ad7cc3d91c938b
+Section: Utilities
+Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
+Author: iAperion <aperion@hotmail.ca>
+Name: Savethemblobs
+
+Package: com.iTrickz.SetGen
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @iTrickzGG <itrickz101@gmail.com>
+Filename: ./debs/com.itrickz.setgen_1.1_iphoneos-arm.deb
+Size: 1288
+MD5sum: 624faf0d7a2f03f5f576da874ab1363b
+SHA1: 2f044a4e0fa52f0c57e403d32b694c770f91dc21
+SHA256: d5e6fce2557c23669efb1be7bb7b4623e0b84eb7483129b3b3de3928937f1fcf
+Section: Tweaks
+Description: Sets a generator in NVRAM usage: type <setup>(without <>) in Mterminal - ONLY YALU102
+Author: @iTrickzGG <itrickz101@gmail.com>
+Name: SetGen
+
+Package: com.iTrickz.iUtility4iOS
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: @iTrickzGG <itrickz101@gmail.com>
+Depends: openssl, debianutils, coreutils
+Filename: ./debs/com.itrickz.iutility4ios_2.3.2_iphoneos-arm.deb
+Size: 2094
+MD5sum: 76faa53b784a3ba48fc53da2833a7470
+SHA1: f9018c3b19780b0d1943e420adcf765bd6ab34e4
+SHA256: f25b79d36c13761a27fea3354586d043dd47d03acc774334c578c62e58fc2873
+Section: Tweaks
+Description: iOS Utility Script to use this package open your favorite mobile terminal and type mustard. Please submit and issues or feature requests to 2Klasic on twitter or iTrickzGG on twitter.
+Author: @iTrickzGG <itrickz101@gmail.com>
+Name: iUtility4iOS
+
